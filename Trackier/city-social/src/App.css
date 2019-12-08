@@ -1,0 +1,103 @@
+/* App bare style */
+.MuiAppBar-colorPrimary{
+  background:#dd0303!important;
+
+}
+.MuiBadge-colorSecondary{
+  background:black!important;
+}
+
+.login-container{
+  margin-top: 5%;
+  margin-bottom: 5%;
+}
+
+.login-form-2{
+  padding: 5%;
+  /* background: white; */
+  box-shadow: 0 5px 8px 0 rgba(0, 0, 0, 0.2), 0 9px 26px 0 rgba(0, 0, 0, 0.19);
+}
+.login-form-2 h3{
+  text-align: center;
+  color: #fff;
+}
+.login-container form{
+  padding: 10%;
+}
+.btnSubmit
+{
+  width: 50%;
+  border-radius: 1rem;
+  padding: 1.5%;
+  border: none;
+  cursor: pointer;
+}
+
+.login-form-2 .btnSubmit{
+  font-weight: 600;
+  color: #0062cc;
+  background-color: #fff;
+}
+/* .login-form-2 .ForgetPwd{
+  color: #fff;
+  font-weight: 600;
+  text-decoration: none;
+} */
+
+label{
+  color: #330867;
+}
+
+
+
+/* =========================home page css  */
+/* post css */
+.createpostcon{
+  border:1px solid gray; 
+}
+.postoutline{
+  border:1px solid gray; 
+}
+hr{
+  border-top:1px solid #b6b3b9!important;
+}
+.MuiSvgIcon-root{
+  cursor: pointer;
+}
+
+/* post made by users */
+
+.userpics{
+  cursor: pointer;
+  border:2px solid gray; 
+  width: 45px!important;
+  height: 45px!important;
+
+}
+
+.MuiInput-root{
+  width:100%;
+}
+
+/* =======================profile page css */
+.profile-circle{
+  border:4px solid white;
+}
+
+.edit-p-pic{
+  margin-left: -35px!important;
+}
+
+
+/* =============================css for iframe  where all post  are here */
+#myId{
+  border-style:none!important; 
+  height:500px;
+  width:100%;
+  display: flex;
+  justify-content: center;
+  padding-bottom:20px; 
+  overflow: hidden!important;
+}
+
+
