@@ -39,5 +39,7 @@ B. to setup mysql please use
 5. ``` npm install ```
 
 Now you app is ready 
+![Drag Racing](homepage.png)
+
 
 ### Happy Coding :) 
